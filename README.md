@@ -18,5 +18,5 @@ AULA 01: CONCEITOS GERAIS
 
 AULA 02: REALIDADE AUMENTADA
 + Conceitos aprofundados de Realidade Aumentada;
-+ Tipos de aplicações
++ Tipos de aplicações;
 + Aplicações na realidade.
