@@ -9,7 +9,8 @@
 ![Imagem](https://github.com/Natalia-oli/Cruzando-historias/blob/main/imagem.png)
 
 Apresentações utilizadas nas aulas ministradas para a turma #WomanTech. 
-AULA 01: Noções Conceitos iniciais de: 
+
+AULA 01: CONCEITOS GERAIS
 + Inteligência Artificial;
 + Realidade Virtual;
 + Realidade Aumentada;
